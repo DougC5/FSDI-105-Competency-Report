@@ -1,0 +1,31 @@
+label{
+    min-width: 130px;
+
+}
+#mainHeading{
+  padding-bottom: 15px;
+  padding-top: 15px;
+  border: 2px solid #3A3A3A;
+  border-radius: 5px;
+  background: #78C78B;
+  color: #272727;
+}
+
+.mainForm{
+  background: #616161;
+  color: #fff;
+  border: 2px solid #3A3A3A;
+}
+
+#btnSave, #btnClear{
+border: 2px solid #fff;
+}
+
+#tableHeader{
+  color: #fff;
+  background-color: #616161;
+  border: 2px solid #3A3A3A;
+  padding-left: 20px;
+
+
+}
